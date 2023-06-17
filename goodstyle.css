@@ -1,0 +1,36 @@
+.glory333{
+    background: #eef2f6; background-position: relative;
+    box-sizing: content-box; background-repeat: no-repeat; width: 500px; height: 550px;
+margin: auto; border-radius: 20px; box-sizing: border-box;
+}
+.bless{
+    padding: 50px;
+}
+.bless p{
+    width: 300px; display: inline-block; position: relative; right: 70px; float: right; 
+}
+.glory{
+    color: blue; display: inline-block; float: right; position: relative; left: 80px; bottom: 19.5px;
+}
+.glory333 h1{
+    color: red; padding-top: 35px;
+}
+.glory5{
+    padding-left: 10px;
+}
+
+input, textarea{
+    width: 400px; line-height: 25px; border-radius: 12px;
+}
+.glory22 textarea{
+    width: 50px;
+}
+.goodnews{width: 400px; border-radius: 13px;}
+.goodnews1{width: 400px; border-radius: 13px;}
+.goodnews2{width: 400px; border-radius: 13px;}
+.bless p{position: relative; bottom: 55px; margin-right: 60px;}
+
+.goodnews4{position: relative; border-radius: 35px; bottom: 75px; right: 120px; 
+  animation: TransitioningBackground 5s ease-in-out infinite ;  cursor: pointer; width: 120px; height: 30px; transition: ease-out;
+}
+.goodnews4:hover{background: #3970d6;}
