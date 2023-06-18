@@ -29,5 +29,12 @@ font-style: italic; font-size: 25px !important;}
 .grey{background-color: #ffffff; color: #592600;}
 .grey h1{padding-top: 50px;}
 
-.goodness{display: flex;}
+.goodness{display: flex; background: rgb(229, 220, 220); position: relative; bottom: 200px;}
+.mercy{display: flex !important; background-image: 500px}
+.nyemike{display: flex;}
+.great1{background-image: url(./images/77nyems7777.jpg); background-repeat: no-repeat; 
+    position: relative; left: 650px; bottom: 230px;}
+.great2{position: relative; top: 150px; right: 100px;}
+.great3{position: relative; bottom: 229px; background: rgb(229, 220, 220);}
+
 
